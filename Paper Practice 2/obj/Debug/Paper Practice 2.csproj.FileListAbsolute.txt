@@ -1,0 +1,9 @@
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\bin\Debug\Paper Practice 2.exe.config
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\bin\Debug\Paper Practice 2.exe
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\bin\Debug\Paper Practice 2.pdb
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\obj\Debug\Paper Practice 2.csprojAssemblyReference.cache
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\obj\Debug\Paper_Practice_2.Form1.resources
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\obj\Debug\Paper_Practice_2.Properties.Resources.resources
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\obj\Debug\Paper Practice 2.csproj.GenerateResource.cache
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\obj\Debug\Paper Practice 2.exe
+C:\Users\Rehan Khan\source\repos\Paper Practice 2\Paper Practice 2\obj\Debug\Paper Practice 2.pdb
